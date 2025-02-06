@@ -24,8 +24,9 @@ The relevant tables that are recommended for the objective are:  <i> mostly I us
 
 # Methodology 
 The relevent analysis to meet the objective can be done major by answering the following questions:
-1.Product lines that each warehouse has.
-2.No.of warehouses in toltal.
+
+1. Product lines that each warehouse has.
+2. No.of warehouses in toltal.
 3. Orders trends based on warehouses and product lines.
 4. Sales of each product lines according to warehouses.
 5. Profit margins of each product lines.
